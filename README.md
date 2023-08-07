@@ -13,9 +13,6 @@ https://youtu.be/Ta-WtkieeYY
 Paint your vehicle with some exotic chameleon colors with a cool looking spray system.
 
 
-#
-
-
 ## Installation
 - Drag & Drop unzipped folder to your `resources` folder
 - Add required items to your item table
