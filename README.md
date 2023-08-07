@@ -5,7 +5,6 @@
 
 # LAMBRA-EXOTICPAINTS
 <img src ="https://i.imgur.com/l1jlE65.png" width="640" height="360">
-<img src ="https://i.imgur.com/l1jlE65.png" width="640" height="360">
 
 # Preview
 https://youtu.be/Ta-WtkieeYY
