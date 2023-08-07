@@ -12,6 +12,13 @@ https://youtu.be/Ta-WtkieeYY
 <b>FiveM QBCore Resource</b>.<br>
 Paint your vehicle with some exotic chameleon colors with a cool looking spray system.
 
+#
+
+<b>Features:</b>
+- Cool looking spray system with reload;
+- Paint is saved to the vehicle;
+- Optimized (0.0ms resmon while no usage);
+
 
 ## Installation
 - Drag & Drop unzipped folder to your `resources` folder
